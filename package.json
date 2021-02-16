@@ -1,0 +1,15 @@
+{
+  "name": "mutation-summary",
+  "version": "1.0.0",
+  "description": "Mutation Summary is a JavaScript library that makes observing changes to the DOM fast, easy and safe. This is a clone package of googles own mutation-summary",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no tests written\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "''"
+  },
+  "author": "google.inc",
+  "license": "Licensed under the Apache License, Version 2.0"
+}
